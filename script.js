@@ -3,7 +3,7 @@ const text = `
 *** DOCUMENT CONFIDENTIEL ***
 
 Date: 04-07-30##
-De: Conne-sœur Compagnonne
+De: Conne-sœur S.L.
 À: Initié(e)
 
 Sous l'éclat ténu de la lune décroissante, alors que les ombres dansent et murmurent leurs secrets, je t'écris cette missive avec une urgence que seuls les cœurs initiés peuvent comprendre. Les murmures des anciens se sont intensifiés, et les <b>Frères Noirs</b> préparent une cérémonie dont l'ampleur menace notre fragile équilibre.
@@ -15,7 +15,7 @@ Le silence et la discrétion sont de mise, car des forces obscures guettent et n
 Que la lumière de notre savoir éclaire ton chemin et te guide vers notre réunion secrète.
 
 Avec espoir et détermination,
-Ta conne-sœur compagnonne
+Ta conne-sœur 
 `;
 
 let index = 0;
