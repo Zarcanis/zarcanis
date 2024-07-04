@@ -2,7 +2,7 @@ const textElement = document.getElementById('text');
 const text = `
 *** DOCUMENT CONFIDENTIEL ***
 
-Date: 04-07-2024
+Date: 04-07-30##
 De: Conne-sœur Compagnonne
 À: Initié(e)
 
