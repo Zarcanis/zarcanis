@@ -20,7 +20,7 @@ Avec espoir et détermination,
 
 Ta conne-sœur 
 
-P.S. voici la clé: https://bit.ly/XXXXXXXXX
+P.S. voici la clé: https://fx5l.short.gy/XXXXXXXXX
 `;
 
 let index = 0;
