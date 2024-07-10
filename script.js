@@ -1,21 +1,26 @@
 const textElement = document.getElementById('text');
 const text = `
-*** DOCUMENT CONFIDENTIEL ***
+### DOCUMENT CONFIDENTIEL ###
 
 Date: 04-07-30##
 De: Conne-sœur S.L.
-À: Initié(e)
+À: Initié
 
-S*ous* l'éclat ténu de la lune décroissante, alors que les ombres dansent et murmurent leurs secrets, je t'écris cette missive avec une urgence que seuls les cœurs initiés peuvent comprendre. Les murmures des anciens se sont intensifiés, et les <b>Frères Noirs</b> préparent une cérémonie dont l'ampleur menace notre fragile équilibre.
+Cher con-frère,
 
-Nous devons nous retrouver, loin *des* regards curieux, dans le sanctuaire oublié de la ·Crypte Étoilée·, au premier soupir du crépuscule, lorsque l'astre du jour cède sa place aux étoiles bienveillantes. Apporte avec toi les outils sacrés et les symboles de notre ordre, car ils seront nos guides à travers les ténèbres.
+Sous l'éclat ténu de la lune décroissante, alors que les ombres dansent et chuchotent leurs secrets, je t'écris cette missive avec une urgence que seuls les cœurs initiés peuvent comprendre. Les murmures des anciens se sont intensifiés, d’étranges phénomènes dont l'ampleur menace notre fragile équilibre semblent se préparer.
 
-Le silence et la discrétion sont de mise, car des forces obscures guettent et nous devons demeurer invisibles. L'avenir de notre fraternité repose sur notre capacité à déjouer les plans sinistres des ·Frères Noirs·. Viens sans hésitation, car le temps presse et chaque seconde qui s'écoule rapproche le monde de l'ombre éternelle.
+Nous devons nous retrouver, loin des *regard*s curieux, dans le sanctuaire oublié de la Crypte Étoilée, au premier soupir du crépuscule, lorsque l'astre du jour cèd*e* sa place aux étoiles bienveillantes au *z*énith. Apporte avec toi les outils sa*c*rés et les symboles de notre ordre ; ils seront nos guides à travers le labyrint*he* des ténèbres. 
 
-Que la lumière de notre savoir *éc*laire ton chemin et te guide vers notre réunion secrète.
+Le silence et la discrétion sont de mise, car des forces obscures guettent à l’hori*z*on et nous devons demeurer invisibles. L'avenir de notre fraternité repose sur notre *art* à déjouer les plans du Mal*i*n. Viens sans hésitation, car le temps presse et chaque seconde qui s'écoule rapproche le monde de l'ombre éternelle.
+
+Que la lumière de notre savoir éclaire ton chemin et te *g*uide vers n*o*tre réunion secrète.
 
 Avec espoir et détermination,
+
 Ta conne-sœur 
+
+P.S. voici la clé: https://bit.ly/XXXXXXXXX
 `;
 
 let index = 0;
