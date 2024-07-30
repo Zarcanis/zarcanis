@@ -2,7 +2,7 @@ const textElement = document.getElementById('text');
 const text = `
 ### DOCUMENT CONFIDENTIEL ###
 
-Date: 04-07-30##
+Date: 30-07-30##
 De: Conne-sœur S.L.
 À: Initié
 
@@ -12,9 +12,9 @@ Sous l'éclat ténu de la lune décroissante, alors que les ombres dansent et ch
 
 Nous devons nous retrouver, loin des *regard*s curieux, dans le sanctuaire oublié de la Crypte Étoilée, au premier soupir du crépuscule, lorsque l'astre du jour cèd*e* sa place aux étoiles bienveillantes au *z*énith. Apporte avec toi les outils sa*c*rés et les symboles de notre ordre ; ils seront nos guides à travers le labyrint*he* des ténèbres. 
 
-Le silence et la discrétion sont de mise, car des forces obscures guettent à l’hori*z*on et nous devons demeurer invisibles. L'avenir de notre fraternité repose sur notre *art* à déjouer les plans du Mal*i*n. Viens sans hésitation, car le temps presse et chaque seconde qui s'écoule rapproche le monde de l'ombre éternelle.
+Le silence et la discrétion sont de mise, car des forces obscures guettent à l’hori*z*on et nous devons demeurer invisibles, *aé*riens. L'avenir de notre fraternité repose sur notre art à déjouer les plans du Malin. Viens sans hésitati*on*, car le temps presse et chaque seconde qui s'écoule rapproche le monde de l'ombre éternelle.
 
-Que la lumière de notre savoir éclaire ton chemin et te *g*uide vers n*o*tre réunion secrète.
+Que la lumière de notre savoir éclaire ton chemin et te guide vers notre réunion secrète.
 
 Avec espoir et détermination,
 
